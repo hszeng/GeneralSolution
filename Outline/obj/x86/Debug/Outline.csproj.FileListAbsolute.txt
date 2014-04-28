@@ -1,0 +1,8 @@
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Outline\bin\Debug\Outline.exe
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Outline\bin\Debug\Outline.pdb
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Outline\obj\x86\Debug\Outline.exe
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Outline\obj\x86\Debug\Outline.pdb
+D:\Projects\Introduction2Algorithms\Outline\bin\Debug\Outline.exe
+D:\Projects\Introduction2Algorithms\Outline\bin\Debug\Outline.pdb
+D:\Projects\Introduction2Algorithms\Outline\obj\x86\Debug\Outline.exe
+D:\Projects\Introduction2Algorithms\Outline\obj\x86\Debug\Outline.pdb

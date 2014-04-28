@@ -1,0 +1,8 @@
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Knapsack\bin\Debug\Knapsack.exe
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Knapsack\bin\Debug\Knapsack.pdb
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Knapsack\obj\x86\Debug\Knapsack.exe
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Knapsack\obj\x86\Debug\Knapsack.pdb
+D:\Projects\Introduction2Algorithms\Knapsack\bin\Debug\Knapsack.exe
+D:\Projects\Introduction2Algorithms\Knapsack\bin\Debug\Knapsack.pdb
+D:\Projects\Introduction2Algorithms\Knapsack\obj\x86\Debug\Knapsack.exe
+D:\Projects\Introduction2Algorithms\Knapsack\obj\x86\Debug\Knapsack.pdb

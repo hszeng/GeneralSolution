@@ -1,0 +1,4 @@
+I:\上海交大\GeneralSolution\WCFService\bin\WCFService.dll
+I:\上海交大\GeneralSolution\WCFService\bin\WCFService.pdb
+I:\上海交大\GeneralSolution\WCFService\obj\Release\WCFService.dll
+I:\上海交大\GeneralSolution\WCFService\obj\Release\WCFService.pdb

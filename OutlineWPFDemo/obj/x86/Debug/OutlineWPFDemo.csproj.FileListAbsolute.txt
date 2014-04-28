@@ -1,0 +1,14 @@
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\bin\Debug\OutlineWPFDemo.exe
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\bin\Debug\OutlineWPFDemo.pdb
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\bin\Debug\Outline.exe
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\bin\Debug\Outline.pdb
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\OutlineWPFDemo.csprojResolveAssemblyReference.cache
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\MainWindow.baml
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\App.g.cs
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\OutlineWPFDemo_MarkupCompile.cache
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\OutlineWPFDemo.g.resources
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\OutlineWPFDemo.Properties.Resources.resources
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\OutlineWPFDemo.csproj.GenerateResource.Cache
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\OutlineWPFDemo.exe
+D:\Projects\Introduction2Algorithms\OutlineWPFDemo\obj\x86\Debug\OutlineWPFDemo.pdb

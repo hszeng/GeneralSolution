@@ -1,0 +1,8 @@
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Celebrity\bin\Debug\Celebrity.exe
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Celebrity\bin\Debug\Celebrity.pdb
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Celebrity\obj\x86\Debug\Celebrity.exe
+C:\Users\zenga\Downloads\Introduction2Algorithms (1)\Introduction2Algorithms\Celebrity\obj\x86\Debug\Celebrity.pdb
+D:\Projects\Introduction2Algorithms\Celebrity\bin\Debug\Celebrity.exe
+D:\Projects\Introduction2Algorithms\Celebrity\bin\Debug\Celebrity.pdb
+D:\Projects\Introduction2Algorithms\Celebrity\obj\x86\Debug\Celebrity.exe
+D:\Projects\Introduction2Algorithms\Celebrity\obj\x86\Debug\Celebrity.pdb

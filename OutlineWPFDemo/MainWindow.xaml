@@ -1,0 +1,44 @@
+﻿<Window x:Class="OutlineWPFDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Outline Demo" Height="580" Width="680">
+    <Grid Background="AliceBlue" Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ScrollViewer Name="scrollViewer" Grid.Row="0" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+
+            <Canvas x:Name="canvas"  
+                        ScrollViewer.VerticalScrollBarVisibility="Visible"
+                        ScrollViewer.HorizontalScrollBarVisibility="Visible"
+                        SizeChanged="canvas_SizeChanged" HorizontalAlignment="Left"
+                        Background="LightGray" MinWidth="600" MinHeight="280">
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1" />
+                        <TranslateTransform Y="{Binding ElementName=canvas, Path=ActualHeight}" />
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+            </Canvas>
+
+        </ScrollViewer>
+        <StackPanel Orientation="Vertical" Grid.Row="1">
+            <StackPanel.Resources>
+                <Style TargetType="Button">
+                    <Setter Property="Margin" Value="10"/>
+                </Style>
+            </StackPanel.Resources>
+            <StackPanel Orientation="Horizontal"  Height="45">
+                <Button x:Name="btn_GRB" Click="btn_GRB_Click" Content="Generate Random Buildings" Height="23" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="172" />
+                <Button x:Name="btn_CO" Click="btn_CO_Click"  Content="Calculated Outline" Height="23" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="115" />
+                <Button x:Name="btn_HS" Click="btn_HS_Click" Content="Hide/Show Outline" Height="23" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="116" />
+                <Button x:Name="btn_clr" Click="btn_clr_Click" Content="Clear Canvas" Height="23" HorizontalAlignment="Left" VerticalAlignment="Top" Width="109" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Height="45">
+                <Button x:Name="btn_LoadBuildings" Click="btn_LoadBuildings_Click" Content="Load Original Building Data"/>
+                <Button x:Name="btn_LoadOutLines" Click="btn_LoadOutLines_Click" Content="Load Calculated Outline Data"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
