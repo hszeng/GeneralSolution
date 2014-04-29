@@ -8,7 +8,7 @@
     <ProjectGuid>{C4E08761-D721-4E5C-A466-C6792F17595A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Knapsack</RootNamespace>
+    <RootNamespace>Introduction2Algorithms.Knapsack</RootNamespace>
     <AssemblyName>Knapsack</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

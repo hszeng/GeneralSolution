@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace HuffmanEncodingDemo
+namespace Introduction2Algorithms.HuffmanEncodingDemo
 {
     /// <summary>
     /// Interaction logic for App.xaml

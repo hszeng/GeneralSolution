@@ -8,7 +8,7 @@
     <ProjectGuid>{284CC06A-BE6C-4DF1-BEE9-6C19392468E7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HuffmanEncodingDemo</RootNamespace>
+    <RootNamespace>Introduction2Algorithms.HuffmanEncodingDemo</RootNamespace>
     <AssemblyName>HuffmanEncodingDemo</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

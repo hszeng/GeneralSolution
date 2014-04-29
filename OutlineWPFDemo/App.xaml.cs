@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace OutlineWPFDemo
+namespace Introduction2Algorithms.OutlineWPFDemo
 {
     /// <summary>
     /// Interaction logic for App.xaml

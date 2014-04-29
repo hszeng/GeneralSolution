@@ -1,4 +1,4 @@
-﻿<Window x:Class="OutlineWPFDemo.MainWindow"
+﻿<Window x:Class="Introduction2Algorithms.OutlineWPFDemo.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Outline Demo" Height="580" Width="680">

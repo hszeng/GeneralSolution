@@ -6,3 +6,7 @@ C:\Users\Administrator\Documents\GitHub\GeneralSolution\WCFService\bin\WCFServic
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\WCFService\bin\WCFService.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\WCFService\obj\Release\WCFService.dll
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\WCFService\obj\Release\WCFService.pdb
+D:\GitHub\GeneralSolution\WCFService\bin\WCFService.dll
+D:\GitHub\GeneralSolution\WCFService\bin\WCFService.pdb
+D:\GitHub\GeneralSolution\WCFService\obj\Release\WCFService.dll
+D:\GitHub\GeneralSolution\WCFService\obj\Release\WCFService.pdb

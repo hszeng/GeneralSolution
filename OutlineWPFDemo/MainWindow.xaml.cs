@@ -14,7 +14,7 @@ using System.Windows.Shapes;
 using Introduction2Algorithms.Outline;
 using Microsoft.Win32;
 
-namespace OutlineWPFDemo
+namespace Introduction2Algorithms.OutlineWPFDemo
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

@@ -14,3 +14,7 @@ C:\Users\Administrator\Documents\GitHub\GeneralSolution\Outline\bin\Release\Outl
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Outline\bin\Release\Outline.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.pdb
+D:\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.exe
+D:\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.pdb
+D:\GitHub\GeneralSolution\Outline\bin\Release\Outline.exe
+D:\GitHub\GeneralSolution\Outline\bin\Release\Outline.pdb

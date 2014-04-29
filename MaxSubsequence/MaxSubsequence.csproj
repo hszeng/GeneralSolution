@@ -8,7 +8,7 @@
     <ProjectGuid>{0C6453BE-C413-41A8-98B4-2F10455D2064}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Maxsubsequence</RootNamespace>
+    <RootNamespace>Introduction2Algorithms.Maxsubsequence</RootNamespace>
     <AssemblyName>Largestubsequence</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

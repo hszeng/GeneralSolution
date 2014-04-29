@@ -1,0 +1,4 @@
+D:\GitHub\GeneralSolution\DataStructure\bin\Release\DataStructure.dll
+D:\GitHub\GeneralSolution\DataStructure\bin\Release\DataStructure.pdb
+D:\GitHub\GeneralSolution\DataStructure\obj\Release\DataStructure.dll
+D:\GitHub\GeneralSolution\DataStructure\obj\Release\DataStructure.pdb

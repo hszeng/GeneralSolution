@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace HuffmanEncodingDemo
+namespace Introduction2Algorithms.HuffmanEncodingDemo
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

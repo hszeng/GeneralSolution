@@ -8,7 +8,7 @@
     <ProjectGuid>{47EC2225-A91C-4D99-B80F-09A77F4D16D7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OrderStatistics</RootNamespace>
+    <RootNamespace>Introduction2Algorithms.OrderStatistics</RootNamespace>
     <AssemblyName>OrderStatistics</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

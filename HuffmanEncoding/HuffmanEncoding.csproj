@@ -8,7 +8,7 @@
     <ProjectGuid>{9F2C8709-7F6C-48D7-8246-809BEA1956D0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HuffmanEncoding</RootNamespace>
+    <RootNamespace>Introduction2Algorithms.HuffmanEncoding</RootNamespace>
     <AssemblyName>HuffmanEncoding</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -40,7 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="FrequencyCounter.cs" />
+    <Compile Include="Huffman.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

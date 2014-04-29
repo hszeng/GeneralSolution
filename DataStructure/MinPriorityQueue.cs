@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HuffmanEncoding
+namespace Introduction2Algorithms.DataStructure
 {
-    public class Class1
+    public class MinPriorityQueue
     {
     }
 }

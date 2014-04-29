@@ -1,0 +1,4 @@
+D:\GitHub\GeneralSolution\FileReader\bin\Release\FileReader.dll
+D:\GitHub\GeneralSolution\FileReader\bin\Release\FileReader.pdb
+D:\GitHub\GeneralSolution\FileReader\obj\Release\FileReader.dll
+D:\GitHub\GeneralSolution\FileReader\obj\Release\FileReader.pdb

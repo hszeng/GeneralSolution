@@ -6,3 +6,7 @@ C:\Users\Administrator\Documents\GitHub\GeneralSolution\HuffmanEncoding\bin\Rele
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\HuffmanEncoding\bin\Release\HuffmanEncoding.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\HuffmanEncoding\obj\Release\HuffmanEncoding.dll
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\HuffmanEncoding\obj\Release\HuffmanEncoding.pdb
+D:\GitHub\GeneralSolution\HuffmanEncoding\bin\Release\HuffmanEncoding.dll
+D:\GitHub\GeneralSolution\HuffmanEncoding\bin\Release\HuffmanEncoding.pdb
+D:\GitHub\GeneralSolution\HuffmanEncoding\obj\Release\HuffmanEncoding.dll
+D:\GitHub\GeneralSolution\HuffmanEncoding\obj\Release\HuffmanEncoding.pdb

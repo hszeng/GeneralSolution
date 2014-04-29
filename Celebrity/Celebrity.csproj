@@ -8,7 +8,7 @@
     <ProjectGuid>{8A967283-16D4-405C-88E2-D079332199C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Celebrity</RootNamespace>
+    <RootNamespace>Introduction2Algorithms.Celebrity</RootNamespace>
     <AssemblyName>Celebrity</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

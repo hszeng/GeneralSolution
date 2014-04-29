@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace OrderStatistics
+namespace Introduction2Algorithms.OrderStatistics
 {
     public class MinMaxFinder<T> where T : IComparable<T>
     {

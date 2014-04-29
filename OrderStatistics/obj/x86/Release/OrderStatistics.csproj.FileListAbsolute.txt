@@ -6,3 +6,7 @@ C:\Users\Administrator\Documents\GitHub\GeneralSolution\OrderStatistics\bin\Rele
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.pdb
+D:\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.exe
+D:\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.pdb
+D:\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.exe
+D:\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.pdb

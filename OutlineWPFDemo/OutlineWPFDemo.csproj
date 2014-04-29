@@ -8,7 +8,7 @@
     <ProjectGuid>{3ED57F33-BF30-41DD-B0E5-9FC56A77C39E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OutlineWPFDemo</RootNamespace>
+    <RootNamespace>Introduction2Algorithms.OutlineWPFDemo</RootNamespace>
     <AssemblyName>OutlineWPFDemo</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

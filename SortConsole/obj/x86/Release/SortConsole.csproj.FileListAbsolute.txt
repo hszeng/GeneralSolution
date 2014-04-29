@@ -23,3 +23,10 @@ C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\bin\Release\
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.pdb
+D:\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.exe
+D:\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.pdb
+D:\GitHub\GeneralSolution\SortConsole\bin\Release\SortConsole.exe
+D:\GitHub\GeneralSolution\SortConsole\bin\Release\SortConsole.pdb
+D:\GitHub\GeneralSolution\SortConsole\bin\Release\Sort.dll
+D:\GitHub\GeneralSolution\SortConsole\bin\Release\Sort.pdb
+D:\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.csprojResolveAssemblyReference.cache

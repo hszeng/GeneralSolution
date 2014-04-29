@@ -6,3 +6,7 @@ C:\Users\Administrator\Documents\GitHub\GeneralSolution\Sort\bin\Release\Sort.dl
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Sort\bin\Release\Sort.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Sort\obj\Release\Sort.dll
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Sort\obj\Release\Sort.pdb
+D:\GitHub\GeneralSolution\Sort\bin\Release\Sort.dll
+D:\GitHub\GeneralSolution\Sort\bin\Release\Sort.pdb
+D:\GitHub\GeneralSolution\Sort\obj\Release\Sort.dll
+D:\GitHub\GeneralSolution\Sort\obj\Release\Sort.pdb
