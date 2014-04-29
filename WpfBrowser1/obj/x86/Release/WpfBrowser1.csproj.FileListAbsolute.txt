@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\bin\Release\WpfBrowser1.exe
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\bin\Release\WpfBrowser1.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\MainWindow.baml
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\Page1.baml
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\Page1.g.cs
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\App.g.cs
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\WpfBrowser1_MarkupCompile.cache
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\WpfBrowser1.g.resources
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\WpfBrowser1.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\WpfBrowser1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\WpfBrowser1.exe
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\WpfBrowser1.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\Page2.baml
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WpfBrowser1\obj\x86\Release\Page2.g.cs

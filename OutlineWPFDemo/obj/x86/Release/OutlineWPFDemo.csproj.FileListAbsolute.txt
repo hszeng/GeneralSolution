@@ -54,3 +54,17 @@ I:\上海交大\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.Pr
 I:\上海交大\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.csproj.GenerateResource.Cache
 I:\上海交大\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.exe
 I:\上海交大\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\bin\Release\OutlineWPFDemo.exe
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\bin\Release\OutlineWPFDemo.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\bin\Release\Outline.exe
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\bin\Release\Outline.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\MainWindow.baml
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\MainWindow.g.cs
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\App.g.cs
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo_MarkupCompile.cache
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.g.resources
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.exe
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\OutlineWPFDemo\obj\x86\Release\OutlineWPFDemo.pdb

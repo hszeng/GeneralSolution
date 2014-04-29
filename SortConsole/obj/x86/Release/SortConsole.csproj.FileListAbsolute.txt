@@ -16,3 +16,10 @@ I:\上海交大\GeneralSolution\SortConsole\bin\Release\Sort.pdb
 I:\上海交大\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.csprojResolveAssemblyReference.cache
 I:\上海交大\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.exe
 I:\上海交大\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\bin\Release\SortConsole.exe
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\bin\Release\SortConsole.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\bin\Release\Sort.dll
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\bin\Release\Sort.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.exe
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\SortConsole\obj\x86\Release\SortConsole.pdb

@@ -2,3 +2,7 @@ I:\上海交大\GeneralSolution\WCFService\bin\WCFService.dll
 I:\上海交大\GeneralSolution\WCFService\bin\WCFService.pdb
 I:\上海交大\GeneralSolution\WCFService\obj\Release\WCFService.dll
 I:\上海交大\GeneralSolution\WCFService\obj\Release\WCFService.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WCFService\bin\WCFService.dll
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WCFService\bin\WCFService.pdb
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WCFService\obj\Release\WCFService.dll
+C:\Users\Administrator\Documents\GitHub\GeneralSolution\WCFService\obj\Release\WCFService.pdb

@@ -20,6 +20,7 @@ namespace Introduction2Algorithms.SortConsole
             {
                 new QuickSort<int>(),
                 new QuickSortParallel<int>(),
+                new HeapSort<int>(),
                 new SelectionSort<int>(),
                 new InsertionSort<int>(),
                 new BubbleSort<int>(),              
