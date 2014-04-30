@@ -10,11 +10,11 @@ I:\上海交大\Introduction2Algorithms\MaxSubsequence\bin\Release\Largestubsequ
 I:\上海交大\Introduction2Algorithms\MaxSubsequence\bin\Release\Largestubsequence.pdb
 I:\上海交大\Introduction2Algorithms\MaxSubsequence\obj\x86\Release\Largestubsequence.exe
 I:\上海交大\Introduction2Algorithms\MaxSubsequence\obj\x86\Release\Largestubsequence.pdb
-D:\GitHub\GeneralSolution\MaxSubsequence\obj\x86\Release\Largestubsequence.exe
-D:\GitHub\GeneralSolution\MaxSubsequence\obj\x86\Release\Largestubsequence.pdb
-D:\GitHub\GeneralSolution\MaxSubsequence\bin\Release\Largestubsequence.exe
-D:\GitHub\GeneralSolution\MaxSubsequence\bin\Release\Largestubsequence.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\MaxSubsequence\bin\Release\Largestubsequence.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\MaxSubsequence\bin\Release\Largestubsequence.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\MaxSubsequence\obj\x86\Release\Largestubsequence.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\MaxSubsequence\obj\x86\Release\Largestubsequence.pdb
+D:\GitHub\GeneralSolution\MaxSubsequence\bin\Release\Largestubsequence.exe
+D:\GitHub\GeneralSolution\MaxSubsequence\bin\Release\Largestubsequence.pdb
+D:\GitHub\GeneralSolution\MaxSubsequence\obj\x86\Release\Largestubsequence.exe
+D:\GitHub\GeneralSolution\MaxSubsequence\obj\x86\Release\Largestubsequence.pdb

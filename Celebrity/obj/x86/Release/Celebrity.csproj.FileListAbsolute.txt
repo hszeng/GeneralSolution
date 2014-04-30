@@ -12,11 +12,11 @@ I:\上海交大\Introduction2Algorithms\Celebrity\obj\x86\Release\Celebrity.exe
 I:\上海交大\Introduction2Algorithms\Celebrity\obj\x86\Release\Celebrity.pdb
 I:\上海交大\GeneralSolution\Celebrity\obj\x86\Release\Celebrity.exe
 I:\上海交大\GeneralSolution\Celebrity\obj\x86\Release\Celebrity.pdb
-D:\GitHub\GeneralSolution\Celebrity\obj\x86\Release\Celebrity.exe
-D:\GitHub\GeneralSolution\Celebrity\obj\x86\Release\Celebrity.pdb
-D:\GitHub\GeneralSolution\Celebrity\bin\Release\Celebrity.exe
-D:\GitHub\GeneralSolution\Celebrity\bin\Release\Celebrity.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Celebrity\bin\Release\Celebrity.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Celebrity\bin\Release\Celebrity.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Celebrity\obj\x86\Release\Celebrity.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Celebrity\obj\x86\Release\Celebrity.pdb
+D:\GitHub\GeneralSolution\Celebrity\bin\Release\Celebrity.exe
+D:\GitHub\GeneralSolution\Celebrity\bin\Release\Celebrity.pdb
+D:\GitHub\GeneralSolution\Celebrity\obj\x86\Release\Celebrity.exe
+D:\GitHub\GeneralSolution\Celebrity\obj\x86\Release\Celebrity.pdb

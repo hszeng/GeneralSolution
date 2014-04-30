@@ -5,66 +5,93 @@ using System.Text;
 
 namespace Introduction2Algorithms.DataStructure
 {
-    //public class MaxPriorityQueue<TNode, TValue>
-    //    where TNode : IHeapValue<TValue>
-    //    where TValue : int, double, byte
-    //{
-    //    private TNode[] array;
-    //    private int cursor;
-    //    public MaxPriorityQueue()
-    //    {
-    //        array = new TNode[32];
-    //        cursor = 0;
-    //    }
-    //    public void Insert(TNode x)
-    //    {
-    //        if (cursor + 1 == array.Count())
-    //        {
-    //            TNode[] tmparray = new TNode[array.Count() * 2];
-    //            array.CopyTo(tmparray, 0);
-    //            array = tmparray;
-    //        }
-    //        array[cursor++] = x;
+    public class MaxPriorityQueue<TNode>
+        where TNode : IHeapValue
+    {
+        private TNode[] array;
+        //cursor 指向第一个空出来的位置
+        private int cursor;
+        public MaxPriorityQueue()
+        {
+            array = new TNode[32];
+            cursor = 0;
+        }
+        public bool IsEmpty { get { return cursor <=0; } }
+        public void Insert(TNode x)
+        {
+            if (cursor + 1 == array.Count())
+            {
+                TNode[] tmparray = new TNode[array.Count() * 2];
+                array.CopyTo(tmparray, 0);
+                array = tmparray;
+            }
+            //往上检查是否成最大堆
+            int xIndex = cursor++;
+            array[xIndex] = x;
+            while (xIndex / 2 >= 0)
+            {
+                if (array[xIndex / 2].Value >= array[xIndex].Value) break;
+                TNode tmpNode = array[xIndex / 2];
+                array[xIndex / 2] = array[xIndex];
+                array[xIndex] = tmpNode;
+                xIndex = xIndex / 2;
+            }
+        }
+        public TNode Maximum()
+        {
+            return array[0];
+        }
+        public TNode ExtractMax()
+        {
+            TNode hn = array[0];
+            //把最后一个元素换到第一个 array[0]= array[cursor-1]，array[cursor-1]=null;cursor--；
+            array[0] = array[cursor - 1];
+            array[cursor - 1] = default(TNode);
+            cursor--;
+            maxHeapify(0, cursor - 1, 0);
+            return hn;
+        }
+        public void IncreaseKey(int nodeIndex, int newValue)
+        {
+            if (nodeIndex < cursor && array[nodeIndex].Value < newValue)
+            {
+                array[nodeIndex].Value = newValue;
+                while (nodeIndex / 2 >= 0)
+                {
+                    if (array[nodeIndex / 2].Value >= array[nodeIndex].Value) break;
+                    TNode tmpNode = array[nodeIndex / 2];
+                    array[nodeIndex / 2] = array[nodeIndex];
+                    array[nodeIndex] = tmpNode;
+                    nodeIndex = nodeIndex / 2;
+                }
+            }
 
+        }
+        //由下向上建堆时使用此函数，下面已经建好，上面还没好时使用
+        private void maxHeapify(int startIndex, int endIndex, int newRootIndex)
+        {
 
-    //    }
-    //    public TNode Maximum()
-    //    {
-
-    //        return array[0];
-    //    }
-    //    public TNode ExtractMax()
-    //    {
-    //        return array[0];
-    //    }
-    //    public TNode[] IncreaseKey(TNode[] S, TNode x, TNode newValue)
-    //    {
-    //        return new TNode[1];
-    //    }
-    //    private void maxHeapify(TNode[] array, int startIndex, int endIndex, int newRootIndex)
-    //    {
-
-    //        //int L = (newRootIndex - startIndex) * 2 + 1 + startIndex;
-    //        int L = (newRootIndex - startIndex + 1) * 2 + startIndex - 1;//The array base is from 0.
-    //        int R = L + 1;
-    //        int tmpLargestIndex = newRootIndex;
-    //        if (L <= endIndex && array[L].Value.CompareTo(array[tmpLargestIndex].Value)>0)
-    //        {
-    //            tmpLargestIndex = L;
-    //        }
-    //        if (R <= endIndex && array[R].Value.CompareTo(array[tmpLargestIndex].Value) > 0)
-    //        {
-    //            tmpLargestIndex = R;
-    //        }
-    //        if (tmpLargestIndex != newRootIndex)
-    //        {
-    //            //swap array[tmpLargestIndex] and array[newRootIndex]
-    //            TNode tmpT = array[tmpLargestIndex];
-    //            array[tmpLargestIndex] = array[newRootIndex];
-    //            array[newRootIndex] = tmpT;
-    //            //MaxHeapify the child branch, the newRootIndex= tmpLargestIndex
-    //            maxHeapify(array, startIndex, endIndex, tmpLargestIndex);
-    //        }
-    //    }
-    //}
+            //int L = (newRootIndex - startIndex) * 2 + 1 + startIndex;
+            int L = (newRootIndex - startIndex + 1) * 2 + startIndex - 1;//The array base is from 0.
+            int R = L + 1;
+            int tmpLargestIndex = newRootIndex;
+            if (L <= endIndex && array[L].Value.CompareTo(array[tmpLargestIndex].Value) > 0)
+            {
+                tmpLargestIndex = L;
+            }
+            if (R <= endIndex && array[R].Value.CompareTo(array[tmpLargestIndex].Value) > 0)
+            {
+                tmpLargestIndex = R;
+            }
+            if (tmpLargestIndex != newRootIndex)
+            {
+                //swap array[tmpLargestIndex] and array[newRootIndex]
+                TNode tmpT = array[tmpLargestIndex];
+                array[tmpLargestIndex] = array[newRootIndex];
+                array[newRootIndex] = tmpT;
+                //MaxHeapify the child branch, the newRootIndex= tmpLargestIndex
+                maxHeapify(startIndex, endIndex, tmpLargestIndex);
+            }
+        }
+    }
 }

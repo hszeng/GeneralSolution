@@ -5,9 +5,8 @@ using System.Text;
 
 namespace Introduction2Algorithms.DataStructure
 {
-    //public interface IHeapValue<TValue>
-    //    where TValue : int, double, byte,IComparable<TValue>
-    //{
-    //    public TValue Value { get; set; }
-    //}
+    public interface IHeapValue
+    {
+        int Value { get; set; }
+    }
 }

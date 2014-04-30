@@ -2,11 +2,11 @@ F:\上海交大\Introduction2Algorithms\OrderStatistics\bin\Release\OrderStatist
 F:\上海交大\Introduction2Algorithms\OrderStatistics\bin\Release\OrderStatistics.pdb
 F:\上海交大\Introduction2Algorithms\OrderStatistics\obj\x86\Release\OrderStatistics.exe
 F:\上海交大\Introduction2Algorithms\OrderStatistics\obj\x86\Release\OrderStatistics.pdb
-D:\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.exe
-D:\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.pdb
-D:\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.exe
-D:\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.pdb
+D:\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.exe
+D:\GitHub\GeneralSolution\OrderStatistics\bin\Release\OrderStatistics.pdb
+D:\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.exe
+D:\GitHub\GeneralSolution\OrderStatistics\obj\x86\Release\OrderStatistics.pdb

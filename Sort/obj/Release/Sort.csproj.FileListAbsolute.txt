@@ -2,11 +2,11 @@ F:\上海交大\Introduction2Algorithms\Sort\bin\Release\Sort.dll
 F:\上海交大\Introduction2Algorithms\Sort\bin\Release\Sort.pdb
 F:\上海交大\Introduction2Algorithms\Sort\obj\Release\Sort.dll
 F:\上海交大\Introduction2Algorithms\Sort\obj\Release\Sort.pdb
-D:\GitHub\GeneralSolution\Sort\bin\Release\Sort.dll
-D:\GitHub\GeneralSolution\Sort\bin\Release\Sort.pdb
-D:\GitHub\GeneralSolution\Sort\obj\Release\Sort.dll
-D:\GitHub\GeneralSolution\Sort\obj\Release\Sort.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Sort\bin\Release\Sort.dll
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Sort\bin\Release\Sort.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Sort\obj\Release\Sort.dll
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Sort\obj\Release\Sort.pdb
+D:\GitHub\GeneralSolution\Sort\bin\Release\Sort.dll
+D:\GitHub\GeneralSolution\Sort\bin\Release\Sort.pdb
+D:\GitHub\GeneralSolution\Sort\obj\Release\Sort.dll
+D:\GitHub\GeneralSolution\Sort\obj\Release\Sort.pdb

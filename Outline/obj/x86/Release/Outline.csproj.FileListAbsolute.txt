@@ -10,11 +10,11 @@ I:\上海交大\Introduction2Algorithms\Outline\bin\Release\Outline.exe
 I:\上海交大\Introduction2Algorithms\Outline\bin\Release\Outline.pdb
 I:\上海交大\Introduction2Algorithms\Outline\obj\x86\Release\Outline.exe
 I:\上海交大\Introduction2Algorithms\Outline\obj\x86\Release\Outline.pdb
-D:\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.exe
-D:\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.pdb
-D:\GitHub\GeneralSolution\Outline\bin\Release\Outline.exe
-D:\GitHub\GeneralSolution\Outline\bin\Release\Outline.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Outline\bin\Release\Outline.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Outline\bin\Release\Outline.pdb
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.exe
 C:\Users\Administrator\Documents\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.pdb
+D:\GitHub\GeneralSolution\Outline\bin\Release\Outline.exe
+D:\GitHub\GeneralSolution\Outline\bin\Release\Outline.pdb
+D:\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.exe
+D:\GitHub\GeneralSolution\Outline\obj\x86\Release\Outline.pdb

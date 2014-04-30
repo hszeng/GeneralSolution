@@ -5,18 +5,12 @@ using System.Text;
 
 namespace Introduction2Algorithms.DataStructure
 {
-    //public class HeapNode : IHeapValue<int>
-    //{
-    //    public string Key
-    //    {
-    //        get;
-    //        set;
-    //    }
-
-    //    public int Value
-    //    {
-    //        get;
-    //        set;
-    //    }
-    //}
+    public class HeapNode : IHeapValue
+    {
+        public int Value
+        {
+            get;
+            set;
+        }
+    }
 }
