@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReader", "FileReader\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{4DADE92E-920C-4BB1-8C8F-E242F16F7A8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMDemo", "MVVMDemo\MVVMDemo.csproj", "{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,16 @@ Global
 		{4DADE92E-920C-4BB1-8C8F-E242F16F7A8F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{4DADE92E-920C-4BB1-8C8F-E242F16F7A8F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{4DADE92E-920C-4BB1-8C8F-E242F16F7A8F}.Release|x86.ActiveCfg = Release|Any CPU
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Debug|x86.ActiveCfg = Debug|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Debug|x86.Build.0 = Debug|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Release|Any CPU.ActiveCfg = Release|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Release|x86.ActiveCfg = Release|x86
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -217,5 +229,6 @@ Global
 		{AF041009-33A3-4108-8885-49B1D2CE68D7} = {5E33429A-71E9-4100-A51E-0DF047CE76B8}
 		{7A57A463-2F99-44E0-89D9-D3EB3C5684A8} = {B519E270-8374-4878-9B43-9D9AD0A85872}
 		{ED18AA68-05BF-4E29-9514-5035CC5F4A30} = {B519E270-8374-4878-9B43-9D9AD0A85872}
+		{4C0C8CBE-49DD-4F77-AF83-72FFAD7A0539} = {B519E270-8374-4878-9B43-9D9AD0A85872}
 	EndGlobalSection
 EndGlobal

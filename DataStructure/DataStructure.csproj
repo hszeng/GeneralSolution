@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HeapNode.cs" />
+    <Compile Include="IHeapValue.cs" />
     <Compile Include="MaxHeap.cs" />
     <Compile Include="MaxPriorityQueue.cs" />
     <Compile Include="MinHeap.cs" />
