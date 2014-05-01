@@ -10,3 +10,6 @@ D:\GitHub\GeneralSolution\HuffmanEncoding\bin\Release\HuffmanEncoding.dll
 D:\GitHub\GeneralSolution\HuffmanEncoding\bin\Release\HuffmanEncoding.pdb
 D:\GitHub\GeneralSolution\HuffmanEncoding\obj\Release\HuffmanEncoding.dll
 D:\GitHub\GeneralSolution\HuffmanEncoding\obj\Release\HuffmanEncoding.pdb
+D:\GitHub\GeneralSolution\HuffmanEncoding\bin\Release\DataStructure.dll
+D:\GitHub\GeneralSolution\HuffmanEncoding\bin\Release\DataStructure.pdb
+D:\GitHub\GeneralSolution\HuffmanEncoding\obj\Release\HuffmanEncoding.csprojResolveAssemblyReference.cache

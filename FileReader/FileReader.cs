@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Introduction2Algorithms.FileReader
 {
-    public class FileReader
+    public class FileReaderTool
     {
         public string ReadFile(string path)
         {

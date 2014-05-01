@@ -92,6 +92,16 @@
     </None>
     <AppDesigner Include="Properties\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FileReader\FileReader.csproj">
+      <Project>{180270E9-BDAE-45E2-AD10-1A17BE2E6B57}</Project>
+      <Name>FileReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HuffmanEncoding\HuffmanEncoding.csproj">
+      <Project>{9F2C8709-7F6C-48D7-8246-809BEA1956D0}</Project>
+      <Name>HuffmanEncoding</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

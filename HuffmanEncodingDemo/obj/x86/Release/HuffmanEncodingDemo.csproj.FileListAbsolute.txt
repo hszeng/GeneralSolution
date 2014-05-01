@@ -44,3 +44,10 @@ D:\GitHub\GeneralSolution\HuffmanEncodingDemo\obj\x86\Release\Introduction2Algor
 D:\GitHub\GeneralSolution\HuffmanEncodingDemo\obj\x86\Release\HuffmanEncodingDemo.csproj.GenerateResource.Cache
 D:\GitHub\GeneralSolution\HuffmanEncodingDemo\obj\x86\Release\HuffmanEncodingDemo.exe
 D:\GitHub\GeneralSolution\HuffmanEncodingDemo\obj\x86\Release\HuffmanEncodingDemo.pdb
+D:\GitHub\GeneralSolution\HuffmanEncodingDemo\bin\Release\FileReader.dll
+D:\GitHub\GeneralSolution\HuffmanEncodingDemo\bin\Release\FileReader.pdb
+D:\GitHub\GeneralSolution\HuffmanEncodingDemo\obj\x86\Release\HuffmanEncodingDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\GeneralSolution\HuffmanEncodingDemo\bin\Release\HuffmanEncoding.dll
+D:\GitHub\GeneralSolution\HuffmanEncodingDemo\bin\Release\DataStructure.dll
+D:\GitHub\GeneralSolution\HuffmanEncodingDemo\bin\Release\HuffmanEncoding.pdb
+D:\GitHub\GeneralSolution\HuffmanEncodingDemo\bin\Release\DataStructure.pdb
