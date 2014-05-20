@@ -6,3 +6,15 @@ D:\Projects\Introduction2Algorithms\Knapsack\bin\Debug\Knapsack.exe
 D:\Projects\Introduction2Algorithms\Knapsack\bin\Debug\Knapsack.pdb
 D:\Projects\Introduction2Algorithms\Knapsack\obj\x86\Debug\Knapsack.exe
 D:\Projects\Introduction2Algorithms\Knapsack\obj\x86\Debug\Knapsack.pdb
+D:\GitHub\GeneralSolution\Knapsack\bin\Debug\Knapsack.exe
+D:\GitHub\GeneralSolution\Knapsack\bin\Debug\Knapsack.pdb
+D:\GitHub\GeneralSolution\Knapsack\obj\x86\Debug\Knapsack.exe
+D:\GitHub\GeneralSolution\Knapsack\obj\x86\Debug\Knapsack.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\Knapsack\bin\Debug\Knapsack.exe
+I:\上海交大\GeneralSolution\GeneralSolution\Knapsack\bin\Debug\Knapsack.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\Knapsack\obj\x86\Debug\Knapsack.exe
+I:\上海交大\GeneralSolution\GeneralSolution\Knapsack\obj\x86\Debug\Knapsack.pdb
+I:\上海交大\GeneralSolution\Knapsack\bin\Debug\Knapsack.exe
+I:\上海交大\GeneralSolution\Knapsack\bin\Debug\Knapsack.pdb
+I:\上海交大\GeneralSolution\Knapsack\obj\x86\Debug\Knapsack.exe
+I:\上海交大\GeneralSolution\Knapsack\obj\x86\Debug\Knapsack.pdb

@@ -1,7 +1,8 @@
 ﻿<Window x:Class="WPF.MVVMDemo.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"    
-        xmlns:vm="clr-namespace:WPF.MVVMDemo"
+        xmlns:vm="clr-namespace:WPF.MVVMDemo" 
+        vm:CommandBehaviors.WindowLoadCommand="{Binding WinloadedCommand}"
         Title="MVVMDemo" Height="600" Width="600">
     <Window.DataContext>
         <vm:MainViewModel></vm:MainViewModel>

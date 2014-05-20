@@ -1,0 +1,11 @@
+D:\GitHub\GeneralSolution\AdornerDemo\bin\Release\AdornerDemo.exe
+D:\GitHub\GeneralSolution\AdornerDemo\bin\Release\AdornerDemo.pdb
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\MainWindow.baml
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\MainWindow.g.cs
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\App.g.cs
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\AdornerDemo_MarkupCompile.cache
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\AdornerDemo.g.resources
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\AdornerDemo.Properties.Resources.resources
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\AdornerDemo.csproj.GenerateResource.Cache
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\AdornerDemo.exe
+D:\GitHub\GeneralSolution\AdornerDemo\obj\x86\Release\AdornerDemo.pdb

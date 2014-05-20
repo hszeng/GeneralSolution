@@ -1,0 +1,12 @@
+I:\上海交大\GeneralSolution\GeneralSolution\AttributeDemo\bin\Debug\AttributeDemo.exe
+I:\上海交大\GeneralSolution\GeneralSolution\AttributeDemo\bin\Debug\AttributeDemo.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\AttributeDemo\obj\x86\Debug\AttributeDemo.exe
+I:\上海交大\GeneralSolution\GeneralSolution\AttributeDemo\obj\x86\Debug\AttributeDemo.pdb
+I:\上海交大\GeneralSolution\AttributeDemo\bin\Debug\AttributeDemo.exe
+I:\上海交大\GeneralSolution\AttributeDemo\bin\Debug\AttributeDemo.pdb
+I:\上海交大\GeneralSolution\AttributeDemo\obj\x86\Debug\AttributeDemo.exe
+I:\上海交大\GeneralSolution\AttributeDemo\obj\x86\Debug\AttributeDemo.pdb
+D:\GitHub\GeneralSolution\AttributeDemo\bin\Debug\AttributeDemo.exe
+D:\GitHub\GeneralSolution\AttributeDemo\bin\Debug\AttributeDemo.pdb
+D:\GitHub\GeneralSolution\AttributeDemo\obj\x86\Debug\AttributeDemo.exe
+D:\GitHub\GeneralSolution\AttributeDemo\obj\x86\Debug\AttributeDemo.pdb

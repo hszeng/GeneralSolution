@@ -1,0 +1,13 @@
+D:\GitHub\GeneralSolution\TimeOutTask\bin\Release\TimeOutTask.exe
+D:\GitHub\GeneralSolution\TimeOutTask\bin\Release\TimeOutTask.pdb
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\MainWindow.g.cs
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\App.g.cs
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\TimeOutTask_MarkupCompile.cache
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\TimeOutTask_MarkupCompile.lref
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\MainWindow.baml
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\TimeOutTask.g.resources
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\TimeOutTask.Properties.Resources.resources
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\TimeOutTask.csproj.GenerateResource.Cache
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\TimeOutTask.exe
+D:\GitHub\GeneralSolution\TimeOutTask\obj\x86\Release\TimeOutTask.pdb

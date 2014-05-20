@@ -1,0 +1,8 @@
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Release\ConsoleBookServiceHost.exe.config
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Release\ConsoleBookServiceHost.exe
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Release\ConsoleBookServiceHost.pdb
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Release\Services.dll
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Release\Services.pdb
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\obj\x86\Release\ConsoleBookServiceHost.csprojResolveAssemblyReference.cache
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\obj\x86\Release\ConsoleBookServiceHost.exe
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\obj\x86\Release\ConsoleBookServiceHost.pdb

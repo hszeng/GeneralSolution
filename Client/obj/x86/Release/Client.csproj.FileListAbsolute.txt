@@ -1,0 +1,5 @@
+D:\GitHub\GeneralSolution\Client\bin\Release\Client.exe.config
+D:\GitHub\GeneralSolution\Client\bin\Release\Client.exe
+D:\GitHub\GeneralSolution\Client\bin\Release\Client.pdb
+D:\GitHub\GeneralSolution\Client\obj\x86\Release\Client.exe
+D:\GitHub\GeneralSolution\Client\obj\x86\Release\Client.pdb

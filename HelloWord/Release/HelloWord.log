@@ -1,0 +1,27 @@
+﻿Build started 2014/5/20 21:29:17.
+     1>Project "D:\GitHub\GeneralSolution\HelloWord\HelloWord.vcxproj" on node 2 (rebuild target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\GitHub\GeneralSolution\Release\".
+       InitializeBuildStatus:
+         Creating "Release\HelloWord.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\HelloWord.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\HelloWord.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HelloWord.cpp
+         HelloWord.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitHub\GeneralSolution\Release\HelloWord.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\HelloWord.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\GitHub\GeneralSolution\Release\HelloWord.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitHub\GeneralSolution\Release\HelloWord.lib" /MACHINE:X86 Release\HelloWord.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         HelloWord.vcxproj -> D:\GitHub\GeneralSolution\Release\HelloWord.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\GitHub\GeneralSolution\Release\HelloWord.exe;#1" /manifest Release\HelloWord.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\HelloWord.unsuccessfulbuild".
+         Touching "Release\HelloWord.lastbuildstate".
+     1>Done Building Project "D:\GitHub\GeneralSolution\HelloWord\HelloWord.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.05

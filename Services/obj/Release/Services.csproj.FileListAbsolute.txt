@@ -1,0 +1,10 @@
+D:\InstallPackage\GeneralSolution\Services\bin\Release\Services.dll.config
+D:\InstallPackage\GeneralSolution\Services\bin\Release\Services.dll
+D:\InstallPackage\GeneralSolution\Services\bin\Release\Services.pdb
+D:\InstallPackage\GeneralSolution\Services\obj\Release\Services.dll
+D:\InstallPackage\GeneralSolution\Services\obj\Release\Services.pdb
+D:\GitHub\GeneralSolution\Services\bin\Release\Services.dll.config
+D:\GitHub\GeneralSolution\Services\bin\Release\Services.dll
+D:\GitHub\GeneralSolution\Services\bin\Release\Services.pdb
+D:\GitHub\GeneralSolution\Services\obj\Release\Services.dll
+D:\GitHub\GeneralSolution\Services\obj\Release\Services.pdb

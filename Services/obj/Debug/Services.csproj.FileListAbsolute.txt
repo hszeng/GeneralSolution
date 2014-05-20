@@ -1,0 +1,16 @@
+D:\GitHub\GeneralSolution\Services\bin\Debug\Services.dll.config
+D:\GitHub\GeneralSolution\Services\bin\Debug\Services.dll
+D:\GitHub\GeneralSolution\Services\bin\Debug\Services.pdb
+D:\GitHub\GeneralSolution\Services\obj\Debug\Services.dll
+D:\GitHub\GeneralSolution\Services\obj\Debug\Services.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\Services\bin\Debug\Services.dll.config
+I:\上海交大\GeneralSolution\GeneralSolution\Services\bin\Debug\Services.dll
+I:\上海交大\GeneralSolution\GeneralSolution\Services\bin\Debug\Services.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\Services\obj\Debug\Services.dll
+I:\上海交大\GeneralSolution\GeneralSolution\Services\obj\Debug\Services.pdb
+I:\上海交大\GeneralSolution\Services\bin\Debug\Services.dll.config
+I:\上海交大\GeneralSolution\Services\bin\Debug\Services.dll
+I:\上海交大\GeneralSolution\Services\bin\Debug\Services.pdb
+I:\上海交大\GeneralSolution\Services\obj\Debug\Services.dll
+I:\上海交大\GeneralSolution\Services\obj\Debug\Services.pdb
+D:\GitHub\GeneralSolution\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache

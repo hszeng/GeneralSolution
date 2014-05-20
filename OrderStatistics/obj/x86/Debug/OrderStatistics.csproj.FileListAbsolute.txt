@@ -1,0 +1,12 @@
+D:\GitHub\GeneralSolution\OrderStatistics\bin\Debug\OrderStatistics.exe
+D:\GitHub\GeneralSolution\OrderStatistics\bin\Debug\OrderStatistics.pdb
+D:\GitHub\GeneralSolution\OrderStatistics\obj\x86\Debug\OrderStatistics.exe
+D:\GitHub\GeneralSolution\OrderStatistics\obj\x86\Debug\OrderStatistics.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\OrderStatistics\bin\Debug\OrderStatistics.exe
+I:\上海交大\GeneralSolution\GeneralSolution\OrderStatistics\bin\Debug\OrderStatistics.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\OrderStatistics\obj\x86\Debug\OrderStatistics.exe
+I:\上海交大\GeneralSolution\GeneralSolution\OrderStatistics\obj\x86\Debug\OrderStatistics.pdb
+I:\上海交大\GeneralSolution\OrderStatistics\bin\Debug\OrderStatistics.exe
+I:\上海交大\GeneralSolution\OrderStatistics\bin\Debug\OrderStatistics.pdb
+I:\上海交大\GeneralSolution\OrderStatistics\obj\x86\Debug\OrderStatistics.exe
+I:\上海交大\GeneralSolution\OrderStatistics\obj\x86\Debug\OrderStatistics.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\GeneralSolution\CSharp\Chapter2\BasicParallelLoops\bin\Release\BasicParallelLoops.exe
+D:\GitHub\GeneralSolution\CSharp\Chapter2\BasicParallelLoops\bin\Release\BasicParallelLoops.pdb
+D:\GitHub\GeneralSolution\CSharp\Chapter2\BasicParallelLoops\bin\Release\Utilities.dll
+D:\GitHub\GeneralSolution\CSharp\Chapter2\BasicParallelLoops\bin\Release\Utilities.pdb
+D:\GitHub\GeneralSolution\CSharp\Chapter2\BasicParallelLoops\obj\Release\BasicParallelLoops.exe
+D:\GitHub\GeneralSolution\CSharp\Chapter2\BasicParallelLoops\obj\Release\BasicParallelLoops.pdb
+D:\GitHub\GeneralSolution\CSharp\Chapter2\BasicParallelLoops\obj\Release\BasicParallelLoops.csprojResolveAssemblyReference.cache

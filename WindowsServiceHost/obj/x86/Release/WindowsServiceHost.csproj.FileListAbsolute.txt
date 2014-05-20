@@ -1,0 +1,11 @@
+D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.exe.config
+D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.pdb
+D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\Services.dll
+D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\Services.pdb
+D:\GitHub\GeneralSolution\WindowsServiceHost\obj\x86\Release\WindowsServiceHost.csprojResolveAssemblyReference.cache
+D:\GitHub\GeneralSolution\WindowsServiceHost\obj\x86\Release\WindowsServiceHost.BookServiceHost.resources
+D:\GitHub\GeneralSolution\WindowsServiceHost\obj\x86\Release\WindowsServiceHost.csproj.GenerateResource.Cache
+D:\GitHub\GeneralSolution\WindowsServiceHost\obj\x86\Release\WindowsServiceHost.exe
+D:\GitHub\GeneralSolution\WindowsServiceHost\obj\x86\Release\WindowsServiceHost.pdb
+D:\GitHub\GeneralSolution\WindowsServiceHost\obj\x86\Release\WindowsServiceHost.ProjectInstaller.resources

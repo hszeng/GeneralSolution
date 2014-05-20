@@ -1,0 +1,4 @@
+D:\GitHub\GeneralSolution\AttributeDemo\bin\Release\AttributeDemo.exe
+D:\GitHub\GeneralSolution\AttributeDemo\bin\Release\AttributeDemo.pdb
+D:\GitHub\GeneralSolution\AttributeDemo\obj\x86\Release\AttributeDemo.exe
+D:\GitHub\GeneralSolution\AttributeDemo\obj\x86\Release\AttributeDemo.pdb

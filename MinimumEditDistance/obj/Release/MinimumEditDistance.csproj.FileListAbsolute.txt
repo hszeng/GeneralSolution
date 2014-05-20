@@ -1,0 +1,4 @@
+D:\GitHub\GeneralSolution\MinimumEditDistance\bin\Release\MinimumEditDistance.dll
+D:\GitHub\GeneralSolution\MinimumEditDistance\bin\Release\MinimumEditDistance.pdb
+D:\GitHub\GeneralSolution\MinimumEditDistance\obj\Release\MinimumEditDistance.dll
+D:\GitHub\GeneralSolution\MinimumEditDistance\obj\Release\MinimumEditDistance.pdb

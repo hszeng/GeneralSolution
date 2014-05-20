@@ -1,0 +1,12 @@
+D:\GitHub\GeneralSolution\FileReader\bin\Debug\FileReader.dll
+D:\GitHub\GeneralSolution\FileReader\bin\Debug\FileReader.pdb
+D:\GitHub\GeneralSolution\FileReader\obj\Debug\FileReader.dll
+D:\GitHub\GeneralSolution\FileReader\obj\Debug\FileReader.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\FileReader\bin\Debug\FileReader.dll
+I:\上海交大\GeneralSolution\GeneralSolution\FileReader\bin\Debug\FileReader.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\FileReader\obj\Debug\FileReader.dll
+I:\上海交大\GeneralSolution\GeneralSolution\FileReader\obj\Debug\FileReader.pdb
+I:\上海交大\GeneralSolution\FileReader\bin\Debug\FileReader.dll
+I:\上海交大\GeneralSolution\FileReader\bin\Debug\FileReader.pdb
+I:\上海交大\GeneralSolution\FileReader\obj\Debug\FileReader.dll
+I:\上海交大\GeneralSolution\FileReader\obj\Debug\FileReader.pdb

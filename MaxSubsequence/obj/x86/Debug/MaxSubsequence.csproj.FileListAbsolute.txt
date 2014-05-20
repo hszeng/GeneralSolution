@@ -1,0 +1,12 @@
+D:\GitHub\GeneralSolution\MaxSubsequence\bin\Debug\Largestubsequence.exe
+D:\GitHub\GeneralSolution\MaxSubsequence\bin\Debug\Largestubsequence.pdb
+D:\GitHub\GeneralSolution\MaxSubsequence\obj\x86\Debug\Largestubsequence.exe
+D:\GitHub\GeneralSolution\MaxSubsequence\obj\x86\Debug\Largestubsequence.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\MaxSubsequence\bin\Debug\Largestubsequence.exe
+I:\上海交大\GeneralSolution\GeneralSolution\MaxSubsequence\bin\Debug\Largestubsequence.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\MaxSubsequence\obj\x86\Debug\Largestubsequence.exe
+I:\上海交大\GeneralSolution\GeneralSolution\MaxSubsequence\obj\x86\Debug\Largestubsequence.pdb
+I:\上海交大\GeneralSolution\MaxSubsequence\bin\Debug\Largestubsequence.exe
+I:\上海交大\GeneralSolution\MaxSubsequence\bin\Debug\Largestubsequence.pdb
+I:\上海交大\GeneralSolution\MaxSubsequence\obj\x86\Debug\Largestubsequence.exe
+I:\上海交大\GeneralSolution\MaxSubsequence\obj\x86\Debug\Largestubsequence.pdb

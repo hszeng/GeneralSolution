@@ -22,6 +22,7 @@ namespace WPF.MVVMDemo
             engine = new ModelSimulator();
             calculateCommand = new DelegateCommand(this.executeCalculateCommand, this.canExecuteCalculateCommand);
             calculateCommandWithParameter = new DelegateCommand<string>(this.executeCalculateCommandWithParameter, this.canExecuteCalculateCommandWithParameter);
+            winloadedCommand = new DelegateCommand(this.executeWinloadedCommand, this.canWinloadedCommand);
             cancelCalculateCommand = new DelegateCommand(this.executeCancelCalculateCommand, this.canExecuteCancelCalculateCommand);
         }
         private string dataStringFromEngine;
@@ -67,6 +68,7 @@ namespace WPF.MVVMDemo
                 }
             }
         }
+        #region CalculateCommand
         private ICommand calculateCommand;
         public ICommand CalculateCommand
         {
@@ -85,21 +87,23 @@ namespace WPF.MVVMDemo
             IsEngineFree = false;
             CalculatingStatus = "Running!";
             // create parallel task ,async
-          
+
             Task<string> engineTask = Task.Factory.StartNew<string>(() => engine.SimulateLongTimeWork(5));
             //UI callback               
             engineTask.ContinueWith(task =>
             {
-                               
-                    this.DataStringFromEngine = task.Result;
-                    IsEngineFree = true;
-                    CalculatingStatus = "Complete!";   
+
+                this.DataStringFromEngine = task.Result;
+                IsEngineFree = true;
+                CalculatingStatus = "Complete!";
             });
         }
         private bool canExecuteCalculateCommand()
         {
             return isEngineFree;
         }
+        #endregion
+        #region CalculateCommandWithParameter
         private ICommand calculateCommandWithParameter;
         public ICommand CalculateCommandWithParameter
         {
@@ -122,10 +126,10 @@ namespace WPF.MVVMDemo
             //UI callback            
             engineTask.ContinueWith(task =>
             {
-                               
-                    this.DataStringFromEngine = task.Result;
-                    IsEngineFree = true;
-                    CalculatingStatus = "Complete!";                
+
+                this.DataStringFromEngine = task.Result;
+                IsEngineFree = true;
+                CalculatingStatus = "Complete!";
             });
 
         }
@@ -133,6 +137,31 @@ namespace WPF.MVVMDemo
         {
             return isEngineFree;
         }
+        #endregion
+        #region
+        private ICommand winloadedCommand;
+        public ICommand WinloadedCommand
+        {
+            get { return winloadedCommand; }
+            set
+            {
+                if (winloadedCommand != value)
+                {
+                    winloadedCommand = value;
+                    OnPropertyChagned("WinloadedCommand");
+                }
+            }
+        }
+        private void executeWinloadedCommand()
+        {
+            CalculatingStatus = "The WinloadedCommand has been called!";
+        }
+        private bool canWinloadedCommand()
+        {
+            return true;
+        }
+        #endregion
+
         private ICommand cancelCalculateCommand;
         public ICommand CancelCalculateCommand
         {
@@ -147,7 +176,7 @@ namespace WPF.MVVMDemo
             }
         }
         private void executeCancelCalculateCommand()
-        {           
+        {
         }
         private bool canExecuteCancelCalculateCommand()
         {

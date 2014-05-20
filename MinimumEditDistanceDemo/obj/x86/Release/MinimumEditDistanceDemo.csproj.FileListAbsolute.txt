@@ -1,0 +1,7 @@
+D:\GitHub\GeneralSolution\MinimumEditDistanceDemo\bin\Release\MinimumEditDistanceDemo.exe
+D:\GitHub\GeneralSolution\MinimumEditDistanceDemo\bin\Release\MinimumEditDistanceDemo.pdb
+D:\GitHub\GeneralSolution\MinimumEditDistanceDemo\bin\Release\MinimumEditDistance.dll
+D:\GitHub\GeneralSolution\MinimumEditDistanceDemo\bin\Release\MinimumEditDistance.pdb
+D:\GitHub\GeneralSolution\MinimumEditDistanceDemo\obj\x86\Release\MinimumEditDistanceDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\GeneralSolution\MinimumEditDistanceDemo\obj\x86\Release\MinimumEditDistanceDemo.exe
+D:\GitHub\GeneralSolution\MinimumEditDistanceDemo\obj\x86\Release\MinimumEditDistanceDemo.pdb

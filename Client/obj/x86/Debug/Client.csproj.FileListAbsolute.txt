@@ -1,0 +1,15 @@
+D:\GitHub\GeneralSolution\Client\bin\Debug\Client.exe.config
+D:\GitHub\GeneralSolution\Client\bin\Debug\Client.exe
+D:\GitHub\GeneralSolution\Client\bin\Debug\Client.pdb
+D:\GitHub\GeneralSolution\Client\obj\x86\Debug\Client.exe
+D:\GitHub\GeneralSolution\Client\obj\x86\Debug\Client.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\Client\bin\Debug\Client.exe.config
+I:\上海交大\GeneralSolution\GeneralSolution\Client\bin\Debug\Client.exe
+I:\上海交大\GeneralSolution\GeneralSolution\Client\bin\Debug\Client.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\Client\obj\x86\Debug\Client.exe
+I:\上海交大\GeneralSolution\GeneralSolution\Client\obj\x86\Debug\Client.pdb
+I:\上海交大\GeneralSolution\Client\bin\Debug\Client.exe.config
+I:\上海交大\GeneralSolution\Client\bin\Debug\Client.exe
+I:\上海交大\GeneralSolution\Client\bin\Debug\Client.pdb
+I:\上海交大\GeneralSolution\Client\obj\x86\Debug\Client.exe
+I:\上海交大\GeneralSolution\Client\obj\x86\Debug\Client.pdb

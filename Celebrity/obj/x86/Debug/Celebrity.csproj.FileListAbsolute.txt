@@ -6,3 +6,15 @@ D:\Projects\Introduction2Algorithms\Celebrity\bin\Debug\Celebrity.exe
 D:\Projects\Introduction2Algorithms\Celebrity\bin\Debug\Celebrity.pdb
 D:\Projects\Introduction2Algorithms\Celebrity\obj\x86\Debug\Celebrity.exe
 D:\Projects\Introduction2Algorithms\Celebrity\obj\x86\Debug\Celebrity.pdb
+D:\GitHub\GeneralSolution\Celebrity\bin\Debug\Celebrity.exe
+D:\GitHub\GeneralSolution\Celebrity\bin\Debug\Celebrity.pdb
+D:\GitHub\GeneralSolution\Celebrity\obj\x86\Debug\Celebrity.exe
+D:\GitHub\GeneralSolution\Celebrity\obj\x86\Debug\Celebrity.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\Celebrity\bin\Debug\Celebrity.exe
+I:\上海交大\GeneralSolution\GeneralSolution\Celebrity\bin\Debug\Celebrity.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\Celebrity\obj\x86\Debug\Celebrity.exe
+I:\上海交大\GeneralSolution\GeneralSolution\Celebrity\obj\x86\Debug\Celebrity.pdb
+I:\上海交大\GeneralSolution\Celebrity\bin\Debug\Celebrity.exe
+I:\上海交大\GeneralSolution\Celebrity\bin\Debug\Celebrity.pdb
+I:\上海交大\GeneralSolution\Celebrity\obj\x86\Debug\Celebrity.exe
+I:\上海交大\GeneralSolution\Celebrity\obj\x86\Debug\Celebrity.pdb

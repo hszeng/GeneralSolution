@@ -1,0 +1,11 @@
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\bin\Release\INotifyPropertyChangedDemo.exe
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\bin\Release\INotifyPropertyChangedDemo.pdb
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\MainWindow.baml
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\MainWindow.g.cs
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\App.g.cs
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\INotifyPropertyChangedDemo_MarkupCompile.cache
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\INotifyPropertyChangedDemo.g.resources
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\WPF.INotifyPropertyChangedDemo.Properties.Resources.resources
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\INotifyPropertyChangedDemo.csproj.GenerateResource.Cache
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\INotifyPropertyChangedDemo.exe
+D:\GitHub\GeneralSolution\INotifyPropertyChangedDemo\obj\x86\Release\INotifyPropertyChangedDemo.pdb

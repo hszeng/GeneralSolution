@@ -2,6 +2,6 @@ D:\GitHub\GeneralSolution\DataStructureTest\bin\Release\DataStructureTest.exe
 D:\GitHub\GeneralSolution\DataStructureTest\bin\Release\DataStructureTest.pdb
 D:\GitHub\GeneralSolution\DataStructureTest\bin\Release\DataStructure.dll
 D:\GitHub\GeneralSolution\DataStructureTest\bin\Release\DataStructure.pdb
-D:\GitHub\GeneralSolution\DataStructureTest\obj\x86\Release\DataStructureTest.csprojResolveAssemblyReference.cache
 D:\GitHub\GeneralSolution\DataStructureTest\obj\x86\Release\DataStructureTest.exe
 D:\GitHub\GeneralSolution\DataStructureTest\obj\x86\Release\DataStructureTest.pdb
+D:\GitHub\GeneralSolution\DataStructureTest\obj\x86\Release\DataStructureTest.csprojResolveAssemblyReference.cache

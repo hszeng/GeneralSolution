@@ -1,0 +1,13 @@
+﻿正在安装程序集“D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+   assemblypath = D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.exe
+正在安装服务 BookServiceHost...
+已成功安装服务 BookServiceHost。
+正在日志 Application 中创建 EventLog 源 BookServiceHost...
+正在提交程序集“D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.InstallLog
+   assemblypath = D:\GitHub\GeneralSolution\WindowsServiceHost\bin\Release\WindowsServiceHost.exe

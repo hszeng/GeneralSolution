@@ -1,0 +1,15 @@
+D:\GitHub\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.XML
+D:\GitHub\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.dll
+D:\GitHub\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.pdb
+D:\GitHub\GeneralSolution\CSharp\Utilities\obj\Debug\Utilities.dll
+D:\GitHub\GeneralSolution\CSharp\Utilities\obj\Debug\Utilities.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.XML
+I:\上海交大\GeneralSolution\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.dll
+I:\上海交大\GeneralSolution\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.pdb
+I:\上海交大\GeneralSolution\GeneralSolution\CSharp\Utilities\obj\Debug\Utilities.dll
+I:\上海交大\GeneralSolution\GeneralSolution\CSharp\Utilities\obj\Debug\Utilities.pdb
+I:\上海交大\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.XML
+I:\上海交大\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.dll
+I:\上海交大\GeneralSolution\CSharp\Utilities\bin\Debug\Utilities.pdb
+I:\上海交大\GeneralSolution\CSharp\Utilities\obj\Debug\Utilities.dll
+I:\上海交大\GeneralSolution\CSharp\Utilities\obj\Debug\Utilities.pdb

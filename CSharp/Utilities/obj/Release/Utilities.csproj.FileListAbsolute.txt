@@ -1,0 +1,4 @@
+D:\GitHub\GeneralSolution\CSharp\Utilities\bin\Release\Utilities.dll
+D:\GitHub\GeneralSolution\CSharp\Utilities\bin\Release\Utilities.pdb
+D:\GitHub\GeneralSolution\CSharp\Utilities\obj\Release\Utilities.dll
+D:\GitHub\GeneralSolution\CSharp\Utilities\obj\Release\Utilities.pdb
