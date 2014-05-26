@@ -38,7 +38,7 @@ namespace Introduction2Algorithms.OutlineWPFDemo
         {
             canvas.Children.Clear();
             drawCoordinates();
-            blds = initBuildings(50, 40, 200, 10000);
+            blds = initBuildings(50, 40, 200, 1000);
             drawBuilds();
         }
         public static Building<int>[] initBuildings(int buildCount, int leftLimitInclusive, int maxHeightLimitInclusive, int rightLimitInclusive)

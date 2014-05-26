@@ -16,7 +16,6 @@ D:\GitHub\GeneralSolution\MVVMDemo\bin\Debug\Microsoft.Practices.Prism.UnityExte
 D:\GitHub\GeneralSolution\MVVMDemo\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
 D:\GitHub\GeneralSolution\MVVMDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 D:\GitHub\GeneralSolution\MVVMDemo\bin\Debug\Microsoft.Practices.Unity.xml
-D:\GitHub\GeneralSolution\MVVMDemo\obj\x86\Debug\MVVMDemo.csprojResolveAssemblyReference.cache
 D:\GitHub\GeneralSolution\MVVMDemo\obj\x86\Debug\MainWindow.g.cs
 D:\GitHub\GeneralSolution\MVVMDemo\obj\x86\Debug\App.g.cs
 D:\GitHub\GeneralSolution\MVVMDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,7 +1,3 @@
-D:\GitHub\GeneralSolution\Sort\bin\Debug\Sort.dll
-D:\GitHub\GeneralSolution\Sort\bin\Debug\Sort.pdb
-D:\GitHub\GeneralSolution\Sort\obj\Debug\Sort.dll
-D:\GitHub\GeneralSolution\Sort\obj\Debug\Sort.pdb
 I:\上海交大\GeneralSolution\GeneralSolution\Sort\bin\Debug\Sort.dll
 I:\上海交大\GeneralSolution\GeneralSolution\Sort\bin\Debug\Sort.pdb
 I:\上海交大\GeneralSolution\GeneralSolution\Sort\obj\Debug\Sort.dll
@@ -10,3 +6,7 @@ I:\上海交大\GeneralSolution\Sort\bin\Debug\Sort.dll
 I:\上海交大\GeneralSolution\Sort\bin\Debug\Sort.pdb
 I:\上海交大\GeneralSolution\Sort\obj\Debug\Sort.dll
 I:\上海交大\GeneralSolution\Sort\obj\Debug\Sort.pdb
+D:\GitHub\GeneralSolution\Sort\bin\Debug\Sort.dll
+D:\GitHub\GeneralSolution\Sort\bin\Debug\Sort.pdb
+D:\GitHub\GeneralSolution\Sort\obj\Debug\Sort.dll
+D:\GitHub\GeneralSolution\Sort\obj\Debug\Sort.pdb

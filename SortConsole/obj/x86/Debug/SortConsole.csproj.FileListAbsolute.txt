@@ -2,7 +2,6 @@ D:\GitHub\GeneralSolution\SortConsole\bin\Debug\SortConsole.exe
 D:\GitHub\GeneralSolution\SortConsole\bin\Debug\SortConsole.pdb
 D:\GitHub\GeneralSolution\SortConsole\bin\Debug\Sort.dll
 D:\GitHub\GeneralSolution\SortConsole\bin\Debug\Sort.pdb
-D:\GitHub\GeneralSolution\SortConsole\obj\x86\Debug\SortConsole.csprojResolveAssemblyReference.cache
 D:\GitHub\GeneralSolution\SortConsole\obj\x86\Debug\SortConsole.exe
 D:\GitHub\GeneralSolution\SortConsole\obj\x86\Debug\SortConsole.pdb
 I:\上海交大\GeneralSolution\GeneralSolution\SortConsole\bin\Debug\SortConsole.exe
@@ -19,3 +18,4 @@ I:\上海交大\GeneralSolution\SortConsole\bin\Debug\Sort.pdb
 I:\上海交大\GeneralSolution\SortConsole\obj\x86\Debug\SortConsole.csprojResolveAssemblyReference.cache
 I:\上海交大\GeneralSolution\SortConsole\obj\x86\Debug\SortConsole.exe
 I:\上海交大\GeneralSolution\SortConsole\obj\x86\Debug\SortConsole.pdb
+D:\GitHub\GeneralSolution\SortConsole\obj\x86\Debug\SortConsole.csprojResolveAssemblyReference.cache

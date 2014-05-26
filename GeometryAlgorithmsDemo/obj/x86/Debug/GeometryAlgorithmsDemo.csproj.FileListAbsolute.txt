@@ -1,0 +1,16 @@
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\GeometryAlgorithmsDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\MainWindow.baml
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\MainWindow.g.cs
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\App.g.cs
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\GeometryAlgorithmsDemo_MarkupCompile.cache
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\GeometryAlgorithmsDemo.g.resources
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\Introduction2Algorithms.GeometryAlgorithmsDemo.Properties.Resources.resources
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\GeometryAlgorithmsDemo.csproj.GenerateResource.Cache
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\bin\Debug\GeometryAlgorithmsDemo.exe
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\bin\Debug\GeometryAlgorithmsDemo.pdb
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\bin\Debug\GeometryAlgorithms.exe
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\bin\Debug\Sort.dll
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\bin\Debug\GeometryAlgorithms.pdb
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\bin\Debug\Sort.pdb
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\GeometryAlgorithmsDemo.exe
+D:\GitHub\GeneralSolution\GeometryAlgorithmsDemo\obj\x86\Debug\GeometryAlgorithmsDemo.pdb

@@ -1,4 +1,4 @@
-﻿Build started 2014/5/20 22:47:09.
+﻿Build started 2014/5/26 20:07:29.
      1>Project "D:\GitHub\GeneralSolution\HelloWord\HelloWord.vcxproj" on node 2 (rebuild target(s)).
      1>_PrepareForClean:
          Deleting file "Debug\HelloWord.lastbuildstate".
@@ -31,4 +31,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.99
+Time Elapsed 00:00:10.93

@@ -1,0 +1,7 @@
+D:\GitHub\GeneralSolution\GeometryAlgorithms\obj\x86\Debug\GeometryAlgorithms.csprojResolveAssemblyReference.cache
+D:\GitHub\GeneralSolution\GeometryAlgorithms\bin\Debug\GeometryAlgorithms.exe
+D:\GitHub\GeneralSolution\GeometryAlgorithms\bin\Debug\GeometryAlgorithms.pdb
+D:\GitHub\GeneralSolution\GeometryAlgorithms\bin\Debug\Sort.dll
+D:\GitHub\GeneralSolution\GeometryAlgorithms\bin\Debug\Sort.pdb
+D:\GitHub\GeneralSolution\GeometryAlgorithms\obj\x86\Debug\GeometryAlgorithms.exe
+D:\GitHub\GeneralSolution\GeometryAlgorithms\obj\x86\Debug\GeometryAlgorithms.pdb

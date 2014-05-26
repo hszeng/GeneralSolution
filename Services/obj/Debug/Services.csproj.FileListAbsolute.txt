@@ -13,4 +13,3 @@ I:\上海交大\GeneralSolution\Services\bin\Debug\Services.dll
 I:\上海交大\GeneralSolution\Services\bin\Debug\Services.pdb
 I:\上海交大\GeneralSolution\Services\obj\Debug\Services.dll
 I:\上海交大\GeneralSolution\Services\obj\Debug\Services.pdb
-D:\GitHub\GeneralSolution\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache

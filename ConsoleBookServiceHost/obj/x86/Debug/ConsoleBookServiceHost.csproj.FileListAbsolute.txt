@@ -3,7 +3,6 @@ D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Debug\ConsoleBookServiceHos
 D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Debug\ConsoleBookServiceHost.pdb
 D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Debug\Services.dll
 D:\GitHub\GeneralSolution\ConsoleBookServiceHost\bin\Debug\Services.pdb
-D:\GitHub\GeneralSolution\ConsoleBookServiceHost\obj\x86\Debug\ConsoleBookServiceHost.csprojResolveAssemblyReference.cache
 D:\GitHub\GeneralSolution\ConsoleBookServiceHost\obj\x86\Debug\ConsoleBookServiceHost.exe
 D:\GitHub\GeneralSolution\ConsoleBookServiceHost\obj\x86\Debug\ConsoleBookServiceHost.pdb
 I:\上海交大\GeneralSolution\GeneralSolution\ConsoleBookServiceHost\bin\Debug\ConsoleBookServiceHost.exe.config
@@ -22,3 +21,4 @@ I:\上海交大\GeneralSolution\ConsoleBookServiceHost\bin\Debug\Services.pdb
 I:\上海交大\GeneralSolution\ConsoleBookServiceHost\obj\x86\Debug\ConsoleBookServiceHost.csprojResolveAssemblyReference.cache
 I:\上海交大\GeneralSolution\ConsoleBookServiceHost\obj\x86\Debug\ConsoleBookServiceHost.exe
 I:\上海交大\GeneralSolution\ConsoleBookServiceHost\obj\x86\Debug\ConsoleBookServiceHost.pdb
+D:\GitHub\GeneralSolution\ConsoleBookServiceHost\obj\x86\Debug\ConsoleBookServiceHost.csprojResolveAssemblyReference.cache

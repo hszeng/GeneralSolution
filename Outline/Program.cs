@@ -23,14 +23,17 @@ namespace Introduction2Algorithms.Outline
                 new Building<int>(23,13,29),
                 new Building<int>(24,4,28),
                 };
-            blds.ToList<Building<int>>().ForEach(b=>Console.Write("{0} {1} {2},",b[0],b[1],b[2]));
+            Console.WriteLine("Example in Book:");
+            blds.ToList<Building<int>>().ForEach(b => Console.Write("{0} {1} {2},", b[0], b[1], b[2]));
             Console.WriteLine();
             Console.WriteLine("Expected Result:{0}", "1,11,3,13,9,0,12,7,16,3,19,18,22,3,23,13,29,0");
             MergeBuildings(blds);
             #endregion
 
             #region Test Case 2 随机10万个建筑合并
-            Building<int>[] blds2 = initBuildings(10000, 0, 500, 5000);
+            Building<int>[] blds2 = initBuildings(100000, 0, 500, 5000);
+            Console.WriteLine();
+            Console.WriteLine("100 thousands builds:");
             MergeBuildings(blds2);
             #endregion
 
@@ -39,7 +42,6 @@ namespace Introduction2Algorithms.Outline
         public static void MergeBuildings(Building<int>[] blds)
         {
             Stopwatch sw = new Stopwatch();
-            Console.WriteLine();
             Console.WriteLine("Start!");
             sw.Start();
             Building<int> nb = OutLineUtility.MergeBuildings<int>(blds, 0, blds.Length - 1);
